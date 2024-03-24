@@ -113,7 +113,7 @@ const app = {
   name: 'Bụi Bay Vào Mắt',
   singer:'Đông Nhi',
   path: './assets/mp3/BuiBayVaoMat-DongNhi-8870898.mp3',
-  image: './assets/img/pan18.jpg',
+  image: './assets/img/Pan18.jpg',
   hear: ''
 },
 {
